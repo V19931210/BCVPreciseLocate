@@ -1,0 +1,6 @@
+﻿  RegisAlgorithm.cpp
+D:\openSource\PCL 1.11.1\3rdParty\Boost\include\boost-1_74\boost\function_output_iterator.hpp(14): message : This header is deprecated. Use <boost/iterator/function_output_iterator.hpp> instead.
+D:\openSource\PCL 1.11.1\include\pcl-1.11\pcl\registration\ndt.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\openSource\PCL 1.11.1\include\pcl-1.11\pcl\filters\voxel_grid_covariance.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 E:\FinalTask\BCVPreciseLocate\\releasebin\RegisAlgorithm.lib 和对象 E:\FinalTask\BCVPreciseLocate\\releasebin\RegisAlgorithm.exp
+  RegisAlgorithm.vcxproj -> E:\FinalTask\BCVPreciseLocate\releasebin\RegisAlgorithm.dll

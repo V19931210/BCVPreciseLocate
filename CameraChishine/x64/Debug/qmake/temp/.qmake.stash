@@ -1,0 +1,54 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1929
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192930147
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    D:\\openSource\\OpenNI2\\Include \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\Qhull\\include" \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\FLANN\\include" \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\Boost\\include\\boost-1_74" \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\Eigen\\eigen3" \
+    "D:\\openSource\\PCL 1.11.1\\include\\pcl-1.11" \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\VTK\\include\\vtk-8.2" \
+    D:\\bcvlib\\BCVMasterUix64\\include \
+    D:\\bcvlib\\BCVMasterUix64\\include\\BCQUi \
+    D:\\bcvlib\\BCVMasterUix64\\include\\BCVDriver \
+    D:\\bcvlib\\BCVMasterUix64\\include\\BCQIpc \
+    E:\\FinalTask\\BCVPreciseLocate\\\\include \
+    D:\\bcvlib\\bcvfunctions\\vs2019_X64_opencv4.1.2\\include\\bcvfunctions \
+    D:\\openSource\\camera3D\\CameraChishine\\include\\chishine \
+    D:\\openSource\\opencv\\opencv412_x64\\include \
+    D:\\openSource\\opencv\\opencv412_x64\\include\\opencv2 \
+    D:\\openSource\\Eigen \
+    D:\\VisualStudioIDE\\VC\\Tools\\MSVC\\14.29.30133\\include \
+    D:\\VisualStudioIDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include \
+    D:\\VisualStudioIDE\\VC\\Auxiliary\\VS\\include \
+    "D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt" \
+    D:\\VisualStudioIDE\\VC\\Auxiliary\\VS\\UnitTest\\include \
+    "D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um" \
+    "D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared" \
+    "D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt" \
+    "D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um"
+QMAKE_CXX.LIBDIRS = \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\OpenNI2\\Lib" \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\Qhull\\lib" \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\FLANN\\lib" \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\Boost\\lib" \
+    "D:\\openSource\\PCL 1.11.1\\3rdParty\\VTK\\lib" \
+    "D:\\openSource\\PCL 1.11.1\\lib" \
+    D:\\bcvlib\\BCVMasterUix64\\lib \
+    E:\\FinalTask\\BCVPreciseLocate\\\\lib \
+    D:\\bcvlib\\bcvfunctions\\vs2019_X64_opencv4.1.2\\lib \
+    D:\\openSource\\camera3D\\CameraChishine\\lib \
+    D:\\openSource\\opencv\\opencv412_x64\\x64\\vc14\\lib \
+    D:\\VisualStudioIDE\\VC\\Tools\\MSVC\\14.29.30133\\lib\\x64 \
+    D:\\VisualStudioIDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\lib\\x64 \
+    D:\\VisualStudioIDE\\VC\\Auxiliary\\VS\\lib\\x64 \
+    "D:\\Windows Kits\\10\\lib\\10.0.19041.0\\ucrt\\x64" \
+    D:\\VisualStudioIDE\\VC\\Auxiliary\\VS\\UnitTest\\lib \
+    "D:\\Windows Kits\\10\\lib\\10.0.19041.0\\um\\x64" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\lib\\um\\x64"
